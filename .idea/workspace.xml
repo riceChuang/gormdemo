@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adb4a482-3529-4a9b-af21-ca01e24e45ec" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="460284654">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="go" value="6" />
+          <entry key="s" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Go" value="6" />
+          <entry key="YAML" value="1" />
+          <entry key="x86 Plan9 Assembly" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="337" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Go" value="337" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://C:/Go/src/testing/testing.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7768">
+              <caret line="829" selection-start-line="829" selection-end-line="829" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Go/src/runtime/panic.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16224">
+              <caret line="680" selection-start-line="680" selection-end-line="680" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Go/src/runtime/asm_amd64.s">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31992">
+              <caret line="1333" selection-start-line="1333" selection-end-line="1333" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gorminit/pkg.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13272">
+              <caret line="560" column="13" selection-start-line="560" selection-start-column="13" selection-end-line="560" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoDepProject">
+    <exec-path>C:\Users\jason_chuang\go\bin\dep.exe</exec-path>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gorminit/pkg.go" />
+        <option value="$PROJECT_DIR$/test/create_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="383" />
+    <option name="width" value="1092" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gorm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gorm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorm" type="462c0819:PsiDirectoryNode" />
+              <item name="gorminit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gorm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorm" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/gomodule/bbs" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.dep" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jason_chuang\go\src\gitlab.paradise-soft.com.tw\gormdemo\gorm\gorminit" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.Test_GormDrop in gitlab.paradise-soft.com.tw/gormdemo/gorm/test">
+    <configuration name="Test_GormCreate in gitlab.paradise-soft.com.tw/gormdemo/gorm/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gorm" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="gitlab.paradise-soft.com.tw/gormdemo/gorm/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_GormCreate$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_GormDrop in gitlab.paradise-soft.com.tw/gormdemo/gorm/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gorm" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="gitlab.paradise-soft.com.tw/gormdemo/gorm/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_GormDrop$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="gorm" />
+      <working_directory value="C:\Users\jason_chuang\go\src\gitlab.paradise-soft.com.tw\gormdemo\gorm\test" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="gitlab.paradise-soft.com.tw/gormdemo/gorm/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="C:\Users\jason_chuang\go\src\gitlab.paradise-soft.com.tw\gormdemo\gorm\test\create_test.go" />
+      <pattern value="^Test_GormCreate$" />
+      <output_directory value="C:\Users\jason_chuang\go\src\gitlab.paradise-soft.com.tw\gormdemo\gorm\test" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.create_test" />
+      <item itemvalue="Go Test.Test_GormCreate in gitlab.paradise-soft.com.tw/gormdemo/gorm/test" />
+      <item itemvalue="Go Test.Test_GormDrop in gitlab.paradise-soft.com.tw/gormdemo/gorm/test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.Test_GormDrop in gitlab.paradise-soft.com.tw/gormdemo/gorm/test" />
+        <item itemvalue="Go Test.create_test" />
+        <item itemvalue="Go Test.Test_GormCreate in gitlab.paradise-soft.com.tw/gormdemo/gorm/test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="create_test - 2018.11.26 at 18h 43m 52s.xml">
+      <configuration name="create_test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="create_test - 2018.11.26 at 18h 44m 33s.xml">
+      <configuration name="create_test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="create_test - 2018.11.26 at 18h 44m 53s.xml">
+      <configuration name="create_test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="create_test - 2018.11.26 at 18h 46m 48s.xml">
+      <configuration name="create_test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="create_test - 2018.11.26 at 18h 47m 13s.xml">
+      <configuration name="create_test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="create_test - 2018.11.26 at 19h 00m 34s.xml">
+      <configuration name="create_test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_GormCreate_in_gitlab_paradise-soft_com_tw_gormdemo_gorm_test - 2018.11.27 at 11h 26m 55s.xml">
+      <configuration name="Test_GormCreate in gitlab.paradise-soft.com.tw/gormdemo/gorm/test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="create_test - 2018.11.27 at 11h 27m 36s.xml">
+      <configuration name="create_test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="create_test - 2018.11.27 at 11h 28m 38s.xml">
+      <configuration name="create_test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_GormDrop_in_gitlab_paradise-soft_com_tw_gormdemo_gorm_test - 2018.11.27 at 11h 42m 01s.xml">
+      <configuration name="Test_GormDrop in gitlab.paradise-soft.com.tw/gormdemo/gorm/test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10660981" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3296582" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2734289" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/create_test.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/create_test.go" />
+    <entry file="file://$PROJECT_DIR$/gorminit/app.yml" />
+    <entry file="file://C:/Go/src/testing/testing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7768">
+          <caret line="829" selection-start-line="829" selection-end-line="829" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16224">
+          <caret line="680" selection-start-line="680" selection-end-line="680" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/runtime/asm_amd64.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31992">
+          <caret line="1333" selection-start-line="1333" selection-end-line="1333" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gorminit/pkg.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13272">
+          <caret line="560" column="13" selection-start-line="560" selection-start-column="13" selection-end-line="560" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
