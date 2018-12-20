@@ -6,7 +6,7 @@ import (
 
 	"github.com/jinzhu/gorm"
 	"github.com/jmoiron/sqlx"
-	"gitlab.paradise-soft.com.tw/gormdemo/gorm/gorminit"
+	"gitlab.paradise-soft.com.tw/gormdemo/gorminit"
 )
 
 //example sql

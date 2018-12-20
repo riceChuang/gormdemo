@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"gitlab.paradise-soft.com.tw/gormdemo/gorm/gorminit"
+	"gitlab.paradise-soft.com.tw/gormdemo/gorminit"
 )
 
 type User struct {
